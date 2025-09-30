@@ -16,9 +16,9 @@
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
     "graphql": "^14.1.1",
-    "mongoose": "^5.4.19"
+    "mongoose": "^6.13.6"
   },
   "devDependencies": {
-    "nodemon": "^1.18.10"
+    "nodemon": "^3.1.10"
   }
 }
